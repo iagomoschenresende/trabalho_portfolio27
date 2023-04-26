@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(22, 48, 48);
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-right: 40px;
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+nav {
+    border: 5px solid whitesmoke;
+}
+
+a {
+    color: wheat;
+    text-decoration: none;
+
+}
+
+header h1 {
+    color: khaki;
+}
+
+header {
+    text-align: center;
+
+}
+
+.trp1 {
+    display: flex;
+}
+
+.trp1 h3 {
+    color: rgb(188, 181, 181);
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.trp1 img {
+    width: 200px;
+    margin-left: 40px;
+}
+
+.trp2 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.trp2 h3 {
+    color: rgb(188, 181, 181);
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.trp2 img {
+    width: 200px;
+    margin-left: 40px;
+}
+
+.trp3 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.trp3 h3 {
+    color: rgb(188, 181, 181);
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.trp3 img {
+    width: 200px;
+
+    margin-left: 40px;
+}

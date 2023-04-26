@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(22, 48, 48);
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-right: 40px;
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+nav {
+    border: 5px solid whitesmoke;
+}
+
+a {
+    color: wheat;
+    text-decoration: none;
+
+}
+
+header h1 {
+    color: khaki;
+}
+
+header {
+    text-align: center;
+
+}
+
+.t1 h3 {
+    color: rgb(188, 181, 181);
+}
+
+.t1 {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.t2 {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 120px;
+    margin-top: 70px;
+
+}
+
+.t2 .imagem1 {
+    height: 50px;
+}
+
+.t2 .imagem2 {
+    height: 50px;
+    margin-top: 10px;
+}
+
+.t2 .imagem3 {
+    height: 50px;
+    margin-top: 10px;
+}
+
+.t2 li {
+    margin: 3%;
+}
+
+.t2 ul {
+    list-style: none;
+}
+
+.t2 h1 {
+    color: rgb(188, 181, 181);
+}

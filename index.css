@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(22, 48, 48);
+
+}
+
+header img {
+    border-radius: 50%;
+    width: 300px;
+    margin-top: 30px;
+    border: 5px solid whitesmoke;
+}
+
+header {
+    text-align: center;
+
+}
+
+main {
+    text-align: center;
+}
+
+main h1 {
+    color: whitesmoke;
+}
+
+footer {
+    text-align: center;
+}
+
+footer button {
+    margin-top: 35px;
+    height: 50px;
+}
